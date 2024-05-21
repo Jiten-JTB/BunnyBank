@@ -1,4 +1,4 @@
-# BunnyBank: Your Furry Financial Partner
+# BunnyBank: Your Furry Financial Partner! 🐰
 #### Video Demo:  [My CS50 Final Project](https://youtu.be/GKqIcUmg3dE?si%253DOk_AtNPqz_dsoQ5P)
 #### Description:
 BunnyBank is a Bunny themed user-friendly command-line banking application created by Jiten. It allows users to perform basic banking operations, such as creating a bank account, depositing money, withdrawing funds, transferring funds, and checking their account information as well as transaction history.

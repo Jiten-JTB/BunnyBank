@@ -1,0 +1,5 @@
+validator_collection
+pandas
+tabulate
+termcolor
+emoji
